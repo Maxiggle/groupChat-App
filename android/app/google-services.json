@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475232324581",
+    "project_id": "chatapp-d9f30",
+    "storage_bucket": "chatapp-d9f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475232324581:android:dc5164daa904fe43663d0c",
+        "android_client_info": {
+          "package_name": "com.maxiggle.sangchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475232324581-quganvvl8kbot6kejtms28r94vhj5f3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxiggle.sangchat",
+            "certificate_hash": "e87bffa295c8919d305a1b8446e6c8d0fb499f11"
+          }
+        },
+        {
+          "client_id": "475232324581-qkhsjp3g77fduscnkqg48m8bkb6en3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCly43FYHN7_NpwZS7-acqAGyKiRFB_rDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475232324581-qkhsjp3g77fduscnkqg48m8bkb6en3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
